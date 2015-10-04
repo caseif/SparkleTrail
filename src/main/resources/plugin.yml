@@ -1,0 +1,7 @@
+name: SparkleTrail
+version: 0.2.1
+main: net.amigocraft.sparkletrail.SparkleTrail
+permissions:
+  sparkle.trail:
+    description: Gives player a sparkle trail
+    default: op
